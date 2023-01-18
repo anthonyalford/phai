@@ -1,5 +1,6 @@
 # AI Resources for Hackathoners
 
+## Ideas and Tools
 https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c
 
 ## Copilot
