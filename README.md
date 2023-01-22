@@ -21,6 +21,8 @@ OpenAI has an API that lets you invoke pretrained text models as a web service:
 
 They charge for their API but you can get $18 in free credit when you sign up
 
+[OpenAI Cookbook](https://github.com/openai/openai-cookbook)
+
 ### CLIP
 
 CLIP can run on your machine and can be used as a "zero-shot" image classifier:
