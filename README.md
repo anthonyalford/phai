@@ -5,6 +5,7 @@ https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c
 
 https://github.com/TheAppleTucker/backend-GPT
 
+https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 
 ## Copilot
 Let AI write the code for you!
