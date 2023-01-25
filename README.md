@@ -17,7 +17,7 @@ Let AI write the code for you!
 ## OpenAI
 
 ### API
-OpenAI has an API that lets you invoke pretrained text models as a web service:
+OpenAI has an API that lets you invoke pretrained text and image generation models as a web service:
 
 [https://openai.com/api/](https://openai.com/api/)
 
