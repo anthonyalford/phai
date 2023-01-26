@@ -7,6 +7,8 @@ https://github.com/TheAppleTucker/backend-GPT
 
 https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 
+https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html
+
 ## Copilot
 Let AI write the code for you!
 
