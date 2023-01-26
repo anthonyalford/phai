@@ -9,6 +9,45 @@ https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 
 https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html
 
+## AI Tools for Content
+Comprehensive database of AIs
+https://theresanaiforthat.com/
+
+Resumeworded: Improve your resume and LinkedIn profile
+https://www.resumeworded.com/
+
+Cleanup: Remove any wanted object from your pictures
+https://cleanup.pictures/
+
+Flair: Design branded content in a flash
+https://flair.ai/
+
+Illustroke: Create killer vector images from text prompts
+https://illustroke.com/
+
+Stockimg: Generate the perfect stock photo you need
+https://stockimg.ai/
+
+Looka: Design your own beautiful brand
+https://looka.com/
+
+StockAI: Massive collection of free, AI-generated stock photos
+https://www.stockai.com/
+
+Lexica: Search a massive library of curated AI images
+https://lexica.art/
+
+Beatoven: Create unique royalty-free music
+https://www.beatoven.ai/
+
+Soundraw: Stop searching for the song you need. Create it.
+https://soundraw.io/
+
+Synthesia: Create AI videos by simply typing in text.
+https://www.synthesia.io/
+
+
+
 ## Copilot
 Let AI write the code for you!
 
