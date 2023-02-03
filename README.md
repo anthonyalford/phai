@@ -9,6 +9,8 @@ https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 
 https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html
 
+https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf
+
 ## AI Tools for Content
 Comprehensive database of AIs
 https://theresanaiforthat.com/
