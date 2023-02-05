@@ -1,15 +1,16 @@
 # AI Resources for Hackathoners
 
 ## Ideas and Tools
-https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c
+[List of example ChatGPT prompts as well as links to some tools](https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c)
 
-https://github.com/TheAppleTucker/backend-GPT
+[Using GPT to write SQL queries for you](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
 
-https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
+[Using ChatGPT to write Python for you](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
 
-https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html
+[ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
 
-https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf
+[An example of using ChatGPT as a backend CRUD API - possibly a parody but still interesting](https://github.com/TheAppleTucker/backend-GPT)
+
 
 ## AI Tools for Content
 Comprehensive database of AIs
