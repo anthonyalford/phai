@@ -1,19 +1,17 @@
-# AI Resources for Hackathoners
-
-## Ideas and Tools
-[List of example ChatGPT prompts as well as links to some tools](https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c)
-
-[Using GPT to write SQL queries for you](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
-
-[Using ChatGPT to write Python for you](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
-
-[ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
-
-[An example of using ChatGPT as a backend CRUD API - possibly a parody but still interesting](https://github.com/TheAppleTucker/backend-GPT)
+# ChatGPT
 
 [ChatGPT for Beginners](https://www.kdnuggets.com/2023/02/chatgpt-beginners.html)
 
-## AI Tools for Content
+[ChatGPT Cheat Sheet](https://www.kdnuggets.com/publications/sheets/ChatGPT_Cheatsheet_Costa.pdf)
+
+[Using ChatGPT to write Python for you](https://www.kdnuggets.com/2023/01/chatgpt-python-programming-assistant.html)
+
+[Using GPT to write SQL queries for you](https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/)
+
+[An example of using ChatGPT as a backend CRUD API - possibly a parody but still interesting](https://github.com/TheAppleTucker/backend-GPT)
+
+
+# AI Tools for Content
 Comprehensive database of AIs
 https://theresanaiforthat.com/
 
@@ -52,16 +50,17 @@ https://www.synthesia.io/
 
 
 
-## Copilot
+# Copilot
 Let AI write the code for you!
 
 [https://github.com/features/copilot](https://github.com/features/copilot)
 
 > GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 
-## OpenAI
 
-### API
+# OpenAI
+
+## API
 OpenAI has an API that lets you invoke pretrained text and image generation models as a web service:
 
 [https://openai.com/api/](https://openai.com/api/)
@@ -72,7 +71,7 @@ They charge for their API but you can get $18 in free credit when you sign up
 
 [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
-### CLIP
+## CLIP
 
 CLIP can run on your machine and can be used as a "zero-shot" image classifier:
 
@@ -81,8 +80,7 @@ CLIP can run on your machine and can be used as a "zero-shot" image classifier:
 > CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3. We found CLIP matches the performance of the original ResNet50 on ImageNet “zero-shot” without using any of the original 1.28M labeled examples, overcoming several major challenges in computer vision.
 
 
-
-## Huggingface
+# Huggingface
 
 You can use pretrained models via a web service:
 
