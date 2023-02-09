@@ -11,6 +11,7 @@
 
 [An example of using ChatGPT as a backend CRUD API - possibly a parody but still interesting](https://github.com/TheAppleTucker/backend-GPT)
 
+[ChatGPT for Beginners](https://www.kdnuggets.com/2023/02/chatgpt-beginners.html)
 
 ## AI Tools for Content
 Comprehensive database of AIs
